@@ -3,10 +3,6 @@
 
 ![github](https://user-images.githubusercontent.com/94810819/193475174-0acbbbc9-cf3b-4367-acd2-2e36ab14602a.jpg)
 
-You can find me:
-- [Linkedin](https://www.linkedin.com/in/florencia-oldani-a59647157/)
-- [Blog](https://porfolio-fullstack-flor-oldani.vercel.app/)
-
 
 ```
 const aboutMe = {
@@ -19,6 +15,20 @@ const aboutMe = {
 }
 
 ```
+
+You can find me:
+- [Linkedin](https://www.linkedin.com/in/florencia-oldani-a59647157/)
+- [Blog](https://porfolio-fullstack-flor-oldani.vercel.app/)
+
+
+My Proyects:
+- "Libreria Henry" [Blog](https://henry-library.netlify.app/)
+- "CountriesApp" [Blog](https://countries-flor.netlify.app/)
+
+
+
+
+
 
 <!--
 **MFlorO/MFlorO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

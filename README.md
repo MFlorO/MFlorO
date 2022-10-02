@@ -3,6 +3,23 @@
 
 ![github](https://user-images.githubusercontent.com/94810819/193475174-0acbbbc9-cf3b-4367-acd2-2e36ab14602a.jpg)
 
+You can find me:
+-[Linkedin](https://www.linkedin.com/in/florencia-oldani-a59647157/)
+-[Blog](https://porfolio-fullstack-flor-oldani.vercel.app/)
+
+
+```
+const aboutMe = {
+   name: "María Florencia Oldani",
+   age: 28 years old,
+   study: "fullstack developer",
+   code: [Javascript, Html, Css ],
+   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI],
+   otherSkills: [Figma, Scrum],
+}
+
+```
+
 <!--
 **MFlorO/MFlorO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,17 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-```
-const aboutMe = {
-   name: "María Florencia Oldani",
-   age: 28 years old,
-   study: "fullstack developer",
-   code: [Javascript, Html, Css ],
-   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI],
-   otherSkills: [Figma, Scrum],
-}
-
-```

@@ -18,12 +18,12 @@ const aboutMe = {
 
 You can find me:
 - [Linkedin](https://www.linkedin.com/in/florencia-oldani-a59647157/)
-- [Blog](https://porfolio-fullstack-flor-oldani.vercel.app/)
+- [Porfolio](https://porfolio-fullstack-flor-oldani.vercel.app/)
 
 
 My Proyects:
-- "Libreria Henry" [Blog](https://henry-library.netlify.app/)
-- "CountriesApp" [Blog](https://countries-flor.netlify.app/)
+- [Libreria Henry](https://henry-library.netlify.app/)
+- [CountriesApp](https://countries-flor.netlify.app/)
 
 
 

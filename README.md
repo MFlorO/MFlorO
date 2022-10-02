@@ -1,5 +1,5 @@
 ### Hi, welcome at my gitHub! I'am Florencia Oldani 👋 
-<p>Fullstack Developer</p>
+<i>Fullstack Developer</i>
 
 <!--
 **MFlorO/MFlorO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

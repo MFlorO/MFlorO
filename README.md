@@ -1,4 +1,5 @@
-### Hi there, Welcome at my gitHub! I'am Florencia Oldani 👋 
+### Hi, welcome at my gitHub! I'am Florencia Oldani 👋 
+<p>Fullstack Developer</p>
 
 <!--
 **MFlorO/MFlorO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,11 @@ Here are some ideas to get you started:
 ```
 const aboutMe = {
    name: "María Florencia Oldani",
-   code: [Javascript, Html, Css ]
+   age: 28 years old,
+   study: "fullstack developer",
+   code: [Javascript, Html, Css ],
+   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI],
+   otherSkills: [Figma, Scrum],
 }
 
 ```

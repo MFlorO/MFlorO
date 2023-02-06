@@ -12,8 +12,8 @@ const aboutMe = {
    age: 28 years old,
    study: "fullstack developer",
    code: [Javascript, Html, Css ],
-   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI],
-   otherSkills: [Figma, Scrum],
+   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI, Tailwind],
+   otherSkills: [Figma, Adobe Ilustrator, Adobe Photoshop, Scrum],
 }
 
 ```
@@ -26,7 +26,6 @@ You can find me:
 My Proyects:
 - [Libreria Henry](https://henry-library.netlify.app/)
 - [CountriesApp](https://countries-flor.netlify.app/)
-
 
 
 

@@ -11,8 +11,8 @@ const aboutMe = {
    name: "María Florencia Oldani",
    age: 28 years old,
    study: "fullstack developer",
-   code: [Javascript, Html, Css ],
-   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI, Tailwind],
+   code: [Javascript, Typescript, Html, Css ],
+   skills: [ React, Redux, Node, Express js, Postgres sql, Sequelize, firebase, Chakra, Material UI, Tailwind, Docker, ApiRest, GraphQl, Prisma],
    otherSkills: [Figma, Adobe Ilustrator, Adobe Photoshop, Scrum],
 }
 
